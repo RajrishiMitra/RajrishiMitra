@@ -1,8 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently pursuing a bachelor's degree in Computer Science with Data science specialization<br>🌱 I’m currently learning Machine Learning & Game Development<br>💬 Ask me about Python, DSA <br>⚡ Fun fact I'm lazy but smart
 
-<img align = "right" alt = "coding" width = "400" src = "![image](https://user-images.githubusercontent.com/84472390/226142304-317327d6-b812-47c2-bdfb-09f26e4ff5da.png)
-">
+<img align = "right" alt = "coding" width = "400" src = "https://www.lambdatest.com/resources/images/news24.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/rajrishi-mitra-520615144/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@RajrishiMitra20) 
