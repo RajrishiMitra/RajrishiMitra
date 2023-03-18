@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Student<br>🌱 I’m currently learning Machine Learning & Game Development<br>💬 Ask me about Python, DSA <br>⚡ Fun fact I'm lazy but smart
+🔭 I’m currently pursuing a bachelor's degree in Computer Science with Data science specialization<br>🌱 I’m currently learning Machine Learning & Game Development<br>💬 Ask me about Python, DSA <br>⚡ Fun fact I'm lazy but smart
 
 
 ## 🌐 Socials:
