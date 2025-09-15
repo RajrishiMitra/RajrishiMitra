@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing a bachelor's degree in Computer Science with Data science specialization<br>🌱 I’m currently learning Machine Learning & Game Development<br>💬 Ask me about Python, DSA <br>⚡ Fun fact I'm lazy but smart
+🔭 I am a Computer Science graduate specializing in Data Science, working as a Data Engineer focused on building scalable data pipelines and delivering actionable insights.<br>🌱 I’m currently learning Machine Learning & Game Development<br>💬 Ask me about Python, DSA <br>⚡ Fun fact I'm lazy but smart
 
 <img align = "right" alt = "coding" width = "400" src = "https://www.lambdatest.com/resources/images/news24.gif">
 
